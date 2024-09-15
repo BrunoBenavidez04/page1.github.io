@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    background-color: #272727;
+}
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: blueviolet;
+    margin: -40px;
+    padding: px;
+}
+.titulo:hover{
+    color: red;
+    }
+    *::selection{
+        background-color: blue;
+    }
+hr{
+    margin: -24px;
+    width: 70%;
+}
+h2{
+    color: hsl(26, 69%, 72%);
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 40px;
+}
+
+
+div{
+    width: 300px;
+    text-align: center;
+    background-color: hsl(26, 69%, 72%) ;
+}
+section{
+    display: flex;
+    margin: 20px;
+    column-gap: 70px;
+    justify-content: center;
+}
+
+img[src$=png]{ 
+    width: 220px;
+    height: 260px;
+    border-radius: 50px;
+    background-size: cover;
+    filter: drop-shadow(0px 0px 10px black );
+}
+h2:hover{
+    color: blueviolet;
+}
+
+.papa:hover{
+    color: orangered;
+}
+.pepe:hover{
+    color: rgb(0, 35, 236);
+}
+.pipi:hover{
+    color: red;
+}
+p{
+    text-align: center;
+    margin: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lala:hover{
+    color: rgb(0, 35, 236);
+}
+.lele:hover{color: red;
+}
+.lulu:hover{
+    color: orangered;
+}
+
+
+img[src$=jpg]{
+    width: 250px;
+    height: 260px;
+    border-radius: 50px;
+    background-size: cover;
+    filter: drop-shadow(0px 0px 10px black );
+}
+
+
+
+.america{
+    width: 1200px;
+    margin: auto;
+    padding: auto;
+}
+.arge:hover{
+    color: rgb(0, 195, 255);
+}
+.espa:hover{
+color: red;
+}
+.chi:hover{
+    color: red;
+}
+.tina:hover{
+    color: rgb(0, 195, 255);
+}
+.lee:hover{
+    color: red;
+}
+.paña:hover{
+    color: red;
+    }
+
+
+
+
+
+
+
+
+.pepe{
+    
+}
+
+
+.tw{
+    font-size: 35px;
+}
+.ig{
+    font-size: 35px;
+}
+.ti{
+    font-size: 30px;
+
+}
+
+.te{
+    font-size: 35px;
+}
+.gg{
+    font-size: 35px;
+}
+.tii{
+    font-size: 30px;
+
+}
+
+
+
